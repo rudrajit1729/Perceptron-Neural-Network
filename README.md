@@ -1,5 +1,6 @@
 # Perceptron-Neural-Network
 Creating a simple neural network from scratch with one input layer(3 inputs) and one output neuron.
+
 Perceptron -  A neural network with no hidden layers.
 
 # What does it do?
