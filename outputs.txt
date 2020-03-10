@@ -1,0 +1,28 @@
+Random synaptic weights:
+[[-0.16595599]
+ [ 0.44064899]
+ [-0.99977125]]
+Synaptic Weights after training:
+[[12.00870061]
+ [-0.2044116 ]
+ [-5.8002822 ]]
+
+# Test case 1
+
+Input 1: 0
+Input 2: 1
+Input 3: 1
+New Situation: 
+Input data = [0, 1, 1]
+Ouput data =  [0.00246107]
+Prediction:  0
+
+# Test case 2
+
+Input 1: 1
+Input 2: 0
+Input 3: 0
+New Situation:
+Input data =[1, 0, 0]
+Ouput data:  [0.99999391]
+Prediction:  1
